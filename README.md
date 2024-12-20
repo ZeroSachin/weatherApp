@@ -1,0 +1,1 @@
+Used openweathermap website to get the weather information.
